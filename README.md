@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Please check [my homepage](https://liang-zx.github.io/) for more details.
+
 <img src="https://github-readme-stats.vercel.app/api?username=Liang-ZX&show_icons=true&bg_color=ffffff" />
 
 <!--
